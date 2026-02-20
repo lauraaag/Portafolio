@@ -1,0 +1,38 @@
+body{background-color: rgb(96, 55, 85);
+    color: rgb(255, 202, 202);
+    font-size: "100px";
+}
+
+h1{
+    color: rgb(255, 255, 0);
+}
+p{
+    color: rgb(255, 255, 255); font-size: "40px";
+}
+
+div{
+    background-color: rgb(97, 0, 16);
+    padding: 20px;
+    border: 10px solid;
+    border-radius: 15px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgba(90, 0, 90, 0.936);
+    margin: 50px;
+}
+
+.fotos{
+    background-color: rgb(100, 31, 42);
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+a{
+    color:rgb(255, 255, 255)
+}
