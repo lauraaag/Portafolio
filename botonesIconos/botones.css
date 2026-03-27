@@ -1,0 +1,31 @@
+body{
+    background-color: #a6ff4e;
+}
+
+header{
+    background-color: #ff6565;
+    padding: 2px;
+    
+}
+nav{
+    background-color: #6464eb;
+    padding: 2px;
+    
+
+}
+div{
+    background-color: #bf409f;
+    padding: 2px;
+    
+
+}
+footer{
+    background-color: #ff8258;
+    padding: 2px;
+    
+
+}
+
+.fa{
+    color: #0e4600;
+}

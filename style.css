@@ -1,6 +1,24 @@
 body{background-color: rgb(96, 55, 85);
     color: rgb(255, 202, 202);
-    font-size: "100px";
+    
+}
+
+header{
+    background-color: rebeccapurple;
+    font-size: 30px;
+    padding: 10px;
+}
+
+nav{
+    background-color: brown;
+    padding: 10px;
+    font-size: 20px;
+}
+
+footer{
+    background-color: brown;
+    padding: 10px;
+    font-size: 15px;
 }
 
 h1{
@@ -10,7 +28,7 @@ p{
     color: rgb(255, 255, 255); font-size: "40px";
 }
 
-div{
+div2{
     background-color: rgb(97, 0, 16);
     padding: 20px;
     border: 10px solid;
@@ -19,6 +37,15 @@ div{
     border-width: 5px;
     border-color: rgba(90, 0, 90, 0.936);
     margin: 50px;
+}
+
+.imgRound{
+    border-radius: 40%;
+    transform: rotate(90deg);
+}
+
+.imgSpace{
+    padding: 5px;
 }
 
 .fotos{
@@ -35,4 +62,11 @@ div{
 
 a{
     color:rgb(255, 255, 255)
+}
+
+.divGral{
+    background-color: rgb(133, 33, 50);
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
 }
