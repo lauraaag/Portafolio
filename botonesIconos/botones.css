@@ -1,14 +1,14 @@
 body{
-    background-color: #a6ff4e;
+    background-color: #671451;
 }
 
 header{
-    background-color: #ff6565;
+    background-color: #7ab8ff;
     padding: 2px;
     
 }
 nav{
-    background-color: #6464eb;
+    background-color: #a8a8f5;
     padding: 2px;
     
 
@@ -27,5 +27,5 @@ footer{
 }
 
 .fa{
-    color: #0e4600;
+    color: #a10c45;
 }

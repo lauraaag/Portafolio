@@ -1,0 +1,22 @@
+body{background-color: lch(35.06% 59.09 1.66);
+color: rgb(65, 206, 225);
+font-size:"100px";
+
+p{
+    color:#5bb483; font-size: 50px;
+     text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
+.divGral{
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+h1{
+
+    color: #f0f0f0d1
+}
+}

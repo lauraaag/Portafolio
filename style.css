@@ -25,7 +25,7 @@ h1{
     color: rgb(255, 255, 0);
 }
 p{
-    color: rgb(255, 255, 255); font-size: "40px";
+    color: rgb(255, 255, 255); font-size: "300px";
 }
 
 div2{
@@ -69,4 +69,24 @@ a{
     border-style: none;
     margin: 0px;
     padding: 10px;
+}
+
+.container{
+    display: flex;
+    background-color: #800040;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+}
+
+body{background-color: lab(35.06% 59.07 1.71);
+color: rgb(65, 206, 225);
+font-size:"100px";
+
+}
+
+p{
+    color:#5bb483; font-size: 20px;
+     text-align: left;
+    display: block;
+    text-decoration: none;
 }
