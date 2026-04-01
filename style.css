@@ -1,41 +1,41 @@
-body{background-color: rgb(96, 55, 85);
-    color: rgb(255, 202, 202);
+body{background-color: rgb(52, 52, 119);
+    color: rgb(170, 142, 57);
     
 }
 
 header{
-    background-color: rebeccapurple;
+    background-color: rgb(52, 52, 119);
     font-size: 30px;
     padding: 10px;
 }
 
 nav{
-    background-color: brown;
+    background-color: rgb(62, 18, 85);
     padding: 10px;
     font-size: 20px;
 }
 
 footer{
-    background-color: brown;
+    background-color: rgb(62, 18, 85);
     padding: 10px;
     font-size: 15px;
 }
 
 h1{
-    color: rgb(255, 255, 0);
+    color: rgb(62, 18, 85);
 }
 p{
-    color: rgb(255, 255, 255); font-size: "300px";
+    color: rgb(169, 170, 57); font-size: "300px";
 }
 
 div2{
-    background-color: rgb(97, 0, 16);
+    background-color: rgb(62, 18, 85);
     padding: 20px;
     border: 10px solid;
     border-radius: 15px;
     border-style: dotted;
     border-width: 5px;
-    border-color: rgba(90, 0, 90, 0.936);
+    border-color: rgba(62, 18, 85);
     margin: 50px;
 }
 
@@ -49,7 +49,7 @@ div2{
 }
 
 .fotos{
-    background-color: rgb(100, 31, 42);
+    background-color: rgb(52, 52, 119);
     border-style: none;
     margin: 0px;
     padding: 10px;
@@ -61,11 +61,12 @@ div2{
 
 
 a{
-    color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255);
+
 }
 
 .divGral{
-    background-color: rgb(133, 33, 50);
+    background-color: rgb(62, 18, 85);
     border-style: none;
     margin: 0px;
     padding: 10px;
@@ -73,19 +74,19 @@ a{
 
 .container{
     display: flex;
-    background-color: #800040;
+    background-color: rgb(169, 170, 57);
     flex-direction: row;
     /*flex-wrap: wrap;*/
 }
 
-body{background-color: lab(35.06% 59.07 1.71);
-color: rgb(65, 206, 225);
+body{background-color: rgb(170, 142, 57);
+color: rgb(169, 170, 57);
 font-size:"100px";
 
 }
 
 p{
-    color:#5bb483; font-size: 20px;
+    color: rgb(18, 18, 58); font-size: 20px;
      text-align: left;
     display: block;
     text-decoration: none;
